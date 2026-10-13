@@ -1,0 +1,3 @@
+[build]
+  publish = "www"
+  command = "node scripts/fetch-three.mjs"

@@ -1,0 +1,7 @@
+{
+  "appId": "uk.co.izelia.app",
+  "appName": "IZELIA",
+  "webDir": "www",
+  "android": { "allowMixedContent": false },
+  "server": { "androidScheme": "https" }
+}
